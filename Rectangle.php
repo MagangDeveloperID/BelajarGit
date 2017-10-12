@@ -17,8 +17,13 @@ class Rectangle extends Shape
         $this->large = $large;
     }
 
+    public function setDecoration(int $decoration)
+    {
+        $this->decoration = $decoration;
+    }
+
     public function getArea(): int
     {
-        return $this->width * $this->height * $this->large;
+        return $this->width * $this->height * $this->large * $this->decoration;
     }
 }
