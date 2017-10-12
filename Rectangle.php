@@ -11,9 +11,17 @@ class Rectangle extends Shape
     {
         $this->height = $height;
     }
+    public function setLarge(int $large)
+    {
+        $this->large = $large;
+    }
+    public function setLong(int $long)
+    {
+        $this->long = $long;
+    }
 
     public function getArea(): int
     {
-        return $this->width * $this->height;
+        return $this->width * $this->height * $this->large * $this->long;
     }
 }
