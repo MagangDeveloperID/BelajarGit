@@ -2,7 +2,7 @@
 
 Repo belajar GIT
 
-#Contributor
+# Contributor
 
 * Muhammad Nur Hidayatul Khoiron
 
