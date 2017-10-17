@@ -7,7 +7,7 @@ Repo belajar GIT
 * Muhammad Nur Hidayatul Khoiron
 * Muhamad Ilham Arrouf
 * Tiar Ade Perdana P
-* qwerty
+* Fuad Baharudin
 
 # Referensi
 
