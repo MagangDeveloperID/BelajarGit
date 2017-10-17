@@ -5,6 +5,8 @@ Repo belajar GIT
 # Contributor
 
 * Muhammad Nur Hidayatul Khoiron
+* Muhamad Ilham Arrouf
+* Tiar Ade Perdana P
 
 # Referensi
 
