@@ -8,6 +8,7 @@ Repo belajar GIT
 * Muhamad Ilham Arrouf
 * Tiar Ade Perdana P
 * Fuad Baharudin
+* Didik Ismawanto
 
 # Referensi
 
