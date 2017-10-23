@@ -9,6 +9,7 @@ Repo belajar GIT
 * Tiar Ade Perdana P
 * Fuad Baharudin
 * Didik Ismawanto
+* Adinda Warda
 
 # Referensi
 
