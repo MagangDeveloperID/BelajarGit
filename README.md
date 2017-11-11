@@ -11,6 +11,7 @@ Repo belajar GIT
 * Didik Ismawanto
 * Syahru Murtadho
 * Adinda Warda
+* Ilham Lagi
 
 # Referensi
 
