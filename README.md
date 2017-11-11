@@ -13,6 +13,7 @@ Repo belajar GIT
 * Adinda Warda
 * Ilham Lagi
 * Hengky Anang Wijaya
+* Joko Widodo
 
 # Referensi
 
