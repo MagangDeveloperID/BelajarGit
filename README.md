@@ -12,6 +12,7 @@ Repo belajar GIT
 * Syahru Murtadho
 * Adinda Warda
 * Ilham Lagi
+* Hengky Anang Wijaya
 
 # Referensi
 
