@@ -1,6 +1,21 @@
 # Belajar Git
 
-Buat object sebanyaknya-banyaknya yang kalian tahu. Coding style harus sesuai PSR-2.
+Repo belajar GIT
+
+# Contributor
+
+* Muhammad Nur Hidayatul Khoiron
+* Muhamad Ilham Arrouf
+* Tiar Ade Perdana P
+* Fuad Baharudin
+* Didik Ismawanto
+* Syahru Murtadho
+* Adinda Warda
+* Ilham Lagi
+* Hengky Anang Wijaya
+* Joko Widodo
+* Ahmad Ghafirin
+* Recito Gigih P
 
 # Referensi
 
