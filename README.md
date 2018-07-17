@@ -15,6 +15,7 @@ Repo belajar GIT
 * Hengky Anang Wijaya
 * Joko Widodo
 * Ahmad Ghafirin
+* Recito Gigih P
 
 # Referensi
 
