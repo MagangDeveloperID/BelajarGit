@@ -27,3 +27,4 @@ Repo belajar GIT
 * [Panduan Ringkas Tentang GIT](http://rogerdudler.github.io/git-guide/index.id.html)
 * [Apa itu Git dan Kenapa Penting bagi Programmer?](https://www.petanikode.com/git-untuk-pemula/)
 * [Referensi Situs Web Belajar Git dan Github Untuk Pemula](http://www.okedroid.com/2016/09/referensi-situs-web-belajar-git-dan-github-untuk-pemula.html)
+* [Cara Mudah Belajar Git & GitHub di Windows Secara Step by Step] (https://www.kodingindonesia.com/belajar-git-github/)
