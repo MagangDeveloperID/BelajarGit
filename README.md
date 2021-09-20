@@ -16,6 +16,7 @@ Repo belajar GIT
 * Joko Widodo
 * Ahmad Ghafirin
 * Recito Gigih P
+* Redemtus Bagas Y.
 
 # Referensi
 
