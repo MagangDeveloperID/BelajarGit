@@ -18,6 +18,7 @@ Repo belajar GIT
 * Recito Gigih P
 * Redemtus Bagas Y.
 * Amelia Putri
+* Tito Marhanes
 
 # Referensi
 
@@ -32,3 +33,4 @@ Repo belajar GIT
 * [Cara Mudah Belajar Git & GitHub di Windows Secara Step by Step] (https://www.kodingindonesia.com/belajar-git-github/)
 * [Apa itu GitHub? Berikut Cara Menggunakannya] (https://www.dicoding.com/blog/apa-itu-github/)
 * [Belajar GIT untuk Pemula] (https://medium.com/@fahmiprasetiiio/belajar-git-untuk-pemula-7625c686c68f)
+* [Cara menginstall GIT di windows](https://hanes17.blogspot.com/2023/02/cara-menginstall-git-di-windows.html) 
