@@ -19,6 +19,7 @@ Repo belajar GIT
 * Redemtus Bagas Y.
 * Amelia Putri
 * Elansti Dian Astati
+* Tito Marhanes
 
 # Referensi
 
@@ -34,3 +35,4 @@ Repo belajar GIT
 * [Apa itu GitHub? Berikut Cara Menggunakannya] (https://www.dicoding.com/blog/apa-itu-github/)
 * [Belajar GIT untuk Pemula] (https://medium.com/@fahmiprasetiiio/belajar-git-untuk-pemula-7625c686c68f)
 * [Apa Perbedaan Git dan GitHub? Berikut Penjelasannya](https://www.dicoding.com/blog/perbedaan-git-dan-github/)
+* [Cara menginstall GIT di windows](https://hanes17.blogspot.com/2023/02/cara-menginstall-git-di-windows.html) 
