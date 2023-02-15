@@ -18,6 +18,7 @@ Repo belajar GIT
 * Recito Gigih P
 * Redemtus Bagas Y.
 * Amelia Putri
+* Fannysia Arum Sari  
 * Elansti Dian Astati
 * Tito Marhanes
 
@@ -34,5 +35,6 @@ Repo belajar GIT
 * [Cara Mudah Belajar Git & GitHub di Windows Secara Step by Step] (https://www.kodingindonesia.com/belajar-git-github/)
 * [Apa itu GitHub? Berikut Cara Menggunakannya] (https://www.dicoding.com/blog/apa-itu-github/)
 * [Belajar GIT untuk Pemula] (https://medium.com/@fahmiprasetiiio/belajar-git-untuk-pemula-7625c686c68f)
+* [Belajar git dan Github dasar] (https://www.skilvul.com/courses/git-dan-github-dasar)
 * [Apa Perbedaan Git dan GitHub? Berikut Penjelasannya](https://www.dicoding.com/blog/perbedaan-git-dan-github/)
 * [Cara menginstall GIT di windows](https://hanes17.blogspot.com/2023/02/cara-menginstall-git-di-windows.html) 
