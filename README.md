@@ -22,6 +22,7 @@ Repo belajar GIT
 * Elansti Dian Astati
 * Tito Marhanes
 * I Made Satya Fhudi Darma Jati
+* Zaafira Nadira Putri
 * Gilang Rizki Saputra
 
 # Referensi
@@ -41,4 +42,5 @@ Repo belajar GIT
 * [Apa Perbedaan Git dan GitHub? Berikut Penjelasannya](https://www.dicoding.com/blog/perbedaan-git-dan-github/)
 * [Cara menginstall GIT di windows](https://hanes17.blogspot.com/2023/02/cara-menginstall-git-di-windows.html)
 * [Git vs Github: Apa Perbedaan Git Dengan Github?](https://id.bitdegree.org/tutorial/git-vs-github/)
+* [tutorial chect this out] (https://www.petanikode.com/github-workflow/)
 * [Cara Menggunakan Git (Tutorial Lengkap)](https://www.niagahoster.co.id/blog/git-tutorial-dasar/)
